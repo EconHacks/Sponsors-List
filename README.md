@@ -19,7 +19,10 @@ DigitalOcean|Mail them the Details to sponsorship@digitalocean.com
  [JetBrains](https://www.jetbrains.com/community/support/sponsorship_request.html)|Stickers
  [Creative Tim](https://www.creative-tim.com/sponsorships)|---
 [Shopify](https://www.shopify.in/sponsorships)|---
-Matic Network (BVI) Ltd.| Mail the details to connect@matic.network
-echoAR | Mail the details to info@echoAR.xyz
-O'Reilly Media | Mail the details to partners@oreilly.com
-Atlassian | Mail the details to sponsorship@atlassian.com
+Matic Network| Email to connect@matic.network
+echoAR | Email to info@echoAR.xyz
+O'Reilly Media | EMail to partners@oreilly.com
+Atlassian | Email to sponsorship@atlassian.com
+[RStudio] | Email to	info@rstudio.com (Ask for cash)
+[Draftbit] | Email to nick@draftbit.com
+[Qoom] https://docs.google.com/forms/d/e/1FAIpQLSduKccPlmMSEdwIx8O-U_SvTzKwmQnWNpFdrkzBl9OpvK5sZQ/viewform | ---
