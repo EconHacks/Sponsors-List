@@ -3,8 +3,8 @@ All Sponsors that are interested in EconHacks sponsored hackathons
 # Hackathon Sponsors    
 Sponsor|Specification
 -------|------
-GitHub :octocat:|Contact your Local Campus Expert :triangular_flag_on_post:[use the form here](https://airtable.com/shrjNunEV6tC0SXqY) 
-[GitKraken](https://www.gitkraken.com/contact)|Not for India  
+GitHub|(https://airtable.com/shrjNunEV6tC0SXqY) 
+[GitKraken](https://www.gitkraken.com/contact)|
 DigitalOcean|Mail them the Details to sponsorship@digitalocean.com
 [.Tech](https://get.tech/hackathons) | ---
  [Balsamiq](https://balsamiq.com/givingback/sponsorships/apply/)|---
