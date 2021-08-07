@@ -25,4 +25,4 @@ O'Reilly Media | EMail to partners@oreilly.com
 Atlassian | Email to sponsorship@atlassian.com
 [RStudio] | Email to	info@rstudio.com (Ask for cash)
 [Draftbit] | Email to nick@draftbit.com
-[Qoom] https://docs.google.com/forms/d/e/1FAIpQLSduKccPlmMSEdwIx8O-U_SvTzKwmQnWNpFdrkzBl9OpvK5sZQ/viewform | ---
+[Qoom] (https://docs.google.com/forms/d/e/1FAIpQLSduKccPlmMSEdwIx8O-U_SvTzKwmQnWNpFdrkzBl9OpvK5sZQ/viewform) | ---
