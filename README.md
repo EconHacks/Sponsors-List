@@ -26,3 +26,10 @@ Atlassian | Email to sponsorship@atlassian.com
 [RStudio] | Email to	info@rstudio.com (Ask for cash)
 [Draftbit] | Email to nick@draftbit.com
 [Qoom] (https://docs.google.com/forms/d/e/1FAIpQLSduKccPlmMSEdwIx8O-U_SvTzKwmQnWNpFdrkzBl9OpvK5sZQ/viewform) | ---
+[Symbl.ai] | email to devrelations@symbl.ai 
+[Voiceflow] | https://www.voiceflow.com/demo
+[Magoosh] | Email to help@magoosh.com
+[JetBrains] | Email to sponsorships@jetbrains.com
+[Sashido] | Email to hello@sashido.io
+[Vercel] | Email to support@vercel.com
+[Desmos] | Email to partnerships@desmos.com
