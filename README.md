@@ -27,9 +27,16 @@ Atlassian | Email to sponsorship@atlassian.com
 [Draftbit] | Email to nick@draftbit.com
 [Qoom] (https://docs.google.com/forms/d/e/1FAIpQLSduKccPlmMSEdwIx8O-U_SvTzKwmQnWNpFdrkzBl9OpvK5sZQ/viewform) | ---
 [Symbl.ai] | email to devrelations@symbl.ai 
-[Voiceflow] | https://www.voiceflow.com/demo
+[Voiceflow] | https://www.voiceflow.com/demo or info@voiceflow.com
 [Magoosh] | Email to help@magoosh.com
 [JetBrains] | Email to sponsorships@jetbrains.com
 [Sashido] | Email to hello@sashido.io
 [Vercel] | Email to support@vercel.com
 [Desmos] | Email to partnerships@desmos.com
+[Centered.app] | Email at info@centered.app
+[No Starch Foundation] | https://nostarchfoundation.org/grant-application/
+[ZoomBait] | https://zoombait.com/sponsorship/#
+[Voxelab] | email at mkt03@voxelab3dp.com [ask if you could get 4 orders of the Voxelab Aquila DIY FDM 3D Printer
+[Volare Labs] | https://www.volarelabs.io/
+[1517] | https://www.1517fund.com/take-action (Click I'd like to have 1517 participate in our event.)
+[JDJ Foundation] | Email at info@jdjfoundation.org
