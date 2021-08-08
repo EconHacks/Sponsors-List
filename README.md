@@ -51,4 +51,17 @@ Atlassian | Email to sponsorship@atlassian.com
 [ZipperHQ] | email at hello@zipperHQ.com
 [Logitech] | email at collab@logitech.com
 [CapitalOne] | email at alli.sherman@capitalone.com
-
+#Startup Sponsors 
+These are startups that don't usually sponsor hackathons, so be careful while reaching out!
+Sponsor|Specification
+-------|------
+Automattic | email at press@automattic.com
+UIPath | message at https://www.uipath.com/company/contact-us
+Bubble | bubble.io 
+Skillz | https://www.skillz.com/contact-us/#ContactForm
+Figma | email carmeldee88@figma.com or https://www.figma.com/contact/
+Dwolla | contact at https://www.dwolla.com/contact/
+Pantheon | contact at https://pantheon.io/contact-sales
+SilaMoney | email at support@silamoney.com
+TrueLayer | email at hello@truelayer.com
+SquareSpace | https://www.squarespace.com/contact and click "Partnerships and Sponsorships" 
