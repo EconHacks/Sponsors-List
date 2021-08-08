@@ -49,4 +49,6 @@ Atlassian | Email to sponsorship@atlassian.com
 [Drift] | email at msloan@drift.com 
 [Glimpse] | email at support@joinglimpse.com
 [ZipperHQ] | email at hello@zipperHQ.com
+[Logitech] | email at collab@logitech.com
+[CapitalOne] | email at alli.sherman@capitalone.com
 
