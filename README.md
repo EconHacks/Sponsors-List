@@ -40,3 +40,13 @@ Atlassian | Email to sponsorship@atlassian.com
 [Volare Labs] | https://www.volarelabs.io/
 [1517] | https://www.1517fund.com/take-action (Click I'd like to have 1517 participate in our event.)
 [JDJ Foundation] | Email at info@jdjfoundation.org
+[RocketBook] | hello@getrocketbook.com [ask to get sponsorship for RocketBooks] 
+[Linode] | https://www.linode.com/hackathons/
+[.XYZ] | reach out at https://gen.xyz/account/submitticket.php [Click Sponsorships] 
+[CockRoach Labs] | email at jessica@cockroachlabs.com (Mention how you saw her article about hackathons!) 
+[ArcType] | email support@arctype.com
+[Dropbase] | email at hello@dropbase.io
+[Drift] | email at msloan@drift.com 
+[Glimpse] | email at support@joinglimpse.com
+[ZipperHQ] | email at hello@zipperHQ.com
+
