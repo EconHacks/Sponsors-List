@@ -65,3 +65,8 @@ Pantheon | contact at https://pantheon.io/contact-sales
 SilaMoney | email at support@silamoney.com
 TrueLayer | email at hello@truelayer.com
 SquareSpace | https://www.squarespace.com/contact and click "Partnerships and Sponsorships" 
+Replicated | email at contact@replicated.com
+Stack Overflow | https://meta.stackoverflow.com/contact (very hard to get ahold of, but worth it if you do) 
+Magic | email at support@magic.link
+Airtable | email at support@airtable.com
+Elgoo | email at marketing@elgoo.com
