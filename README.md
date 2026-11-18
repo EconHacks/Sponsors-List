@@ -7,7 +7,6 @@ GitHub|(https://airtable.com/shrjNunEV6tC0SXqY)
 [GitKraken](https://www.gitkraken.com/contact)|
 DigitalOcean|Mail them the Details to sponsorship@digitalocean.com
 [.Tech](https://get.tech/hackathons) | ---
- [Balsamiq](https://balsamiq.com/givingback/sponsorships/apply/)|---
  [Python Software Foundation](https://www.python.org/psf/grants/)|---
  [Npm Js](https://www.surveymonkey.com/r/npmsponsorshiprequests)|---
  [Elastic](https://www.elastic.co/community/meetups/already-hosting-meetup-in-a-box)|---
